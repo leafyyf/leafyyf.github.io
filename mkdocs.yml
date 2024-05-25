@@ -1,0 +1,11 @@
+site_name: My Docs
+
+theme:
+  name: material
+
+nav:
+  - "home": home.md
+  - "课程笔记":
+    - "数逻":
+        - "chapter1": C/ch1.md
+        - "chapter2": C/ch2.md
